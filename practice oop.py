@@ -81,6 +81,7 @@ class BankAccount:
     def get_total_accounts(cls):
         return cls.total_accounts
 
+#Created Bank Instance
 account1 = BankAccount("Peace")
 account2 = BankAccount("Favour")
 

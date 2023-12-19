@@ -84,5 +84,6 @@ class BankAccount:
 #Created Bank Instance
 account1 = BankAccount("Peace")
 account2 = BankAccount("Favour")
+account3 = BankAccount("Elijah")
 
 print(BankAccount.get_total_accounts())
